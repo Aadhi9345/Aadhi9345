@@ -266,7 +266,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](www.linkedin.com/in/adithyaprabu-g-95201b2a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/adithyaprabu-g-95201b2a3/)
 &nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-aadhiaadhi217-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:aadhiaadhi217@gmail.com)
 &nbsp;&nbsp;
