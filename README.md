@@ -5,7 +5,7 @@
 <div align="center">
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8BA4FF&center=true&vCenter=true&width=700&lines=👋I'm+Adithyaprabu;💻+Full+Stack+Developer+from+Tamil+Nadu;🏢+Founder+%40+Adithyaprabu+Digital+Studio;⚡+PHP+%7C+JavaScript+%7C+React+%7C+Next.js;🚀+Building+Premium+Web+Experiences)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8BA4FF&center=true&vCenter=true&width=700&lines=👋I'm+G.Adithyaprabu;💻+Full+Stack+Developer+from+Tamil+Nadu;🏢+Founder+%40+Adithyaprabu+Digital+Studio;⚡+PHP+%7C+JavaScript+%7C+React+%7C+Next.js;🚀+Building+Premium+Web+Experiences)](https://git.io/typing-svg)
 
 <br/>
 
