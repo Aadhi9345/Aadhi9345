@@ -33,7 +33,7 @@
 | 🏢 | Founder — **[Adithyaprabu Digital Studio](https://adithyaprabudigitalstudio.vercel.app)** |
 | 💼 | Full Stack Developer · Web Designer |
 | 📬 | aadhiaadhi217@gmail.com |
-| 🌐 | **[Portfolio]([https://aadhi9345.github.io/adithyaprabu](https://aadhi9345.github.io/adithyaprabu.github.io/))** &nbsp;·&nbsp; **[Digital Studio](https://adithyaprabudigitalstudio.vercel.app)** |
+| 🌐 | **[Portfolio](https://aadhi9345.github.io/adithyaprabu.github.io/)** &nbsp;·&nbsp; **[Digital Studio](https://adithyaprabudigitalstudio.vercel.app)** |
 
 </div>
 
