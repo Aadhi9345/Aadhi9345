@@ -1,243 +1,266 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=160&section=header&text=G.+Adithyaprabu&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full+Stack+Developer+%7C+Web+Designer+%7C+Founder&descAlignY=58&descSize=15" width="100%"/>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=G.+Adithyaprabu&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full+Stack+Developer+%7C+Web+Designer+%7C+Founder&descSize=16&descAlignY=60&descColor=b8c8ff"/>
 
-<br/>
-
+<!-- TYPING ANIMATION -->
 <div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=7EB3FF&center=true&vCenter=true&width=680&lines=👋+Hey%2C+I'm+Adithyaprabu+from+Tamil+Nadu;💻+Full+Stack+Developer+%7C+Web+Designer;🏢+Founder+%40+Adithyaprabu+Digital+Studio;🚀+Building+Clean+%26+Responsive+Web+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8BA4FF&center=true&vCenter=true&width=700&lines=👋+Hello+World!+I'm+Adithyaprabu;💻+Full+Stack+Developer+from+Tamil+Nadu;🏢+Founder+%40+Adithyaprabu+Digital+Studio;⚡+PHP+%7C+JavaScript+%7C+React+%7C+Next.js;🚀+Building+Premium+Web+Experiences)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Aadhi9345&color=7eb3ff&style=flat-square&label=Profile+Views)](https://github.com/Aadhi9345)&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Aadhi9345?style=flat-square&color=7eb3ff&labelColor=161b22&label=Followers)](https://github.com/Aadhi9345?tab=followers)
+<!-- BADGES ROW -->
+[![Profile Views](https://komarev.com/ghpvc/?username=Aadhi9345&style=flat-square&color=8ba4ff&label=Profile+Views)](https://github.com/Aadhi9345)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/Aadhi9345?label=Followers&style=flat-square&color=8ba4ff&labelColor=161b22)](https://github.com/Aadhi9345?tab=followers)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-8ba4ff?style=flat-square&labelColor=161b22)](https://aadhi9345.github.io/adithyaprabu)
 
 </div>
 
+<br/>
+
 ---
 
-### 👨‍💻 &nbsp;About Me
+<!-- ABOUT ME -->
+## &nbsp;👨‍💻 &nbsp;About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif"/>
 
-```javascript
-const adithyaprabu = {
-  name     : "G. Adithyaprabu",
-  location : "Tamil Nadu, India 🇮🇳",
-  degree   : "B.Sc. Computer Science (2023–2026)",
-  college  : "J.J. College of Arts & Science",
+```php
+<?php
 
-  roles    : [
+class Adithyaprabu {
+
+  public string $name     = "G. Adithyaprabu";
+  public string $location = "Tamil Nadu, India 🇮🇳";
+  public string $degree   = "B.Sc. Computer Science (2023–2026)";
+  public string $college  = "J.J. College — Bharathidasan University";
+
+  public array $roles = [
     "Full Stack Developer",
     "Web Designer",
-    "Founder — Adithyaprabu Digital Studio"
-  ],
+    "Founder @ Adithyaprabu Digital Studio",
+  ];
 
-  stack    : ["HTML5","CSS3","JavaScript","PHP",
-              "Bootstrap 5","React.js","Next.js",
-              "MySQL","PostgreSQL","Figma"],
+  public array $techStack = [
+    "HTML5", "CSS3", "JavaScript", "PHP",
+    "Bootstrap 5", "React.js", "Next.js",
+    "MySQL", "PostgreSQL", "Figma",
+  ];
 
-  learning : ["React Advanced","Next.js App Router",
-              "REST API Design","UI/UX Systems"],
+  public array $learning = [
+    "React Advanced Patterns",
+    "Next.js App Router",
+    "REST API Design",
+  ];
 
-  funFact  : "Founded a digital studio while in college! 🎉"
-};
+  public function funFact(): string {
+    return "Founded a digital studio while in 3rd year! 🎉";
+  }
+
+}
 ```
 
 <br clear="right"/>
 
 ---
 
-### 🛠️ &nbsp;Tech Stack
+<!-- TECH STACK WITH SKILL ICONS -->
+## &nbsp;🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-**Languages**&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark)](https://skillicons.dev)
 
-<br/>
+### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,nextjs,tailwind&theme=dark)](https://skillicons.dev)
 
-**Frameworks**&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### Databases & Design
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,figma&theme=dark)](https://skillicons.dev)
 
-<br/>
-
-**Databases & Tools**&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### 📊 &nbsp;GitHub Stats
+<!-- GITHUB STATS -->
+## &nbsp;📊 &nbsp;GitHub Stats
 
 <div align="center">
 
 <a href="https://github.com/Aadhi9345">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Aadhi9345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=7eb3ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=12"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Aadhi9345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8ba4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=1800" alt="Adithyaprabu's GitHub Stats"/>
 </a>
+&nbsp;
 <a href="https://github.com/Aadhi9345">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhi9345&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7eb3ff&text_color=c9d1d9&langs_count=7&border_radius=12"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhi9345&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8ba4ff&text_color=c9d1d9&langs_count=7&border_radius=12&cache_seconds=1800" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aadhi9345&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=7EB3FF&fire=a78bfa&currStreakLabel=7EB3FF&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12)](https://git.io/streak-stats)
+<!-- STREAK STATS -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Aadhi9345&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=8BA4FF&fire=a78bfa&currStreakLabel=8BA4FF&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak"/>
+</a>
 
 </div>
 
 ---
 
-### 📈 &nbsp;Contribution Graph
+<!-- ACTIVITY GRAPH -->
+## &nbsp;📈 &nbsp;Contribution Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aadhi9345&theme=tokyo-night&bg_color=0d1117&color=7eb3ff&line=a78bfa&point=38bdae&area=true&hide_border=true)](https://github.com/Aadhi9345)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aadhi9345&theme=tokyo-night&bg_color=0d1117&color=8ba4ff&line=a78bfa&point=38bdae&area=true&hide_border=true&radius=8)](https://github.com/Aadhi9345)
 
 </div>
 
 ---
 
-### 🏆 &nbsp;Trophies
+<!-- TROPHIES -->
+## &nbsp;🏆 &nbsp;GitHub Trophies
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Aadhi9345&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Aadhi9345)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Aadhi9345&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6)](https://github.com/Aadhi9345)
 
 </div>
 
 ---
 
-### 💼 &nbsp;Work Experience
+<!-- WORK EXPERIENCE -->
+## &nbsp;💼 &nbsp;Work Experience
 
 <details>
-<summary>&nbsp;<b>🏢 Adithyaprabu Digital Studio &nbsp;·&nbsp; Founder & Full Stack Developer &nbsp;·&nbsp; 2026 – Present</b></summary>
+<summary><b>&nbsp;🟣 &nbsp;Adithyaprabu Digital Studio &nbsp;—&nbsp; Founder & Full Stack Developer &nbsp;·&nbsp; 2026 – Present</b></summary>
 <br/>
 
-> `Next.js` `React.js` `Tailwind CSS` `PHP` `JavaScript` `Figma` `Vercel`
+> `Next.js` &nbsp; `React.js` &nbsp; `Tailwind CSS` &nbsp; `PHP` &nbsp; `JavaScript` &nbsp; `Figma` &nbsp; `Vercel`
 
-- 🚀 Founded a freelance digital studio offering **custom web design, development, design portfolios, and video editing** for businesses and individuals across India.
-- 🎨 Deliver end-to-end digital solutions — from **Figma wireframing** to **live Vercel deployment** — with a focus on modern UI/UX and performance.
-- 🌐 Studio live at **[adithyaprabudigitalstudio.vercel.app](https://adithyaprabudigitalstudio.vercel.app)** with active portfolio and social media presence.
+- 🚀 **Founded** and operate a freelance digital studio delivering custom websites, design portfolios, and creative video editing for businesses across India.
+- 🎨 Full cycle — **Figma wireframing → Vercel deployment** — with modern UI/UX and performance focus.
+- 🌐 Live at **[adithyaprabudigitalstudio.vercel.app](https://adithyaprabudigitalstudio.vercel.app)**
 
 <br/>
 </details>
 
 <details>
-<summary>&nbsp;<b>🏢 Hapitrend Media &nbsp;·&nbsp; Web Development Intern &nbsp;·&nbsp; May 2025</b></summary>
+<summary><b>&nbsp;🔵 &nbsp;Hapitrend Media &nbsp;—&nbsp; Web Development Intern &nbsp;·&nbsp; May 2025</b></summary>
 <br/>
 
-> `HTML5` `CSS3` `Bootstrap 5` `JavaScript` `PHP` `MySQL`
+> `HTML5` &nbsp; `CSS3` &nbsp; `Bootstrap 5` &nbsp; `JavaScript` &nbsp; `PHP` &nbsp; `MySQL`
 
-- 🛒 Built **Gameszone** — a complete full stack eCommerce platform — with category filters, real-time cart, session-based login, and full admin CRUD dashboard.
-- 🗄️ Designed a relational MySQL schema handling **500+ product entries** — admin panel cut manual data-handling time by **40%**.
-- 📱 Delivered a **100% responsive**, cross-browser gaming UI with custom CSS3 animations.
+- 🛒 Built **Gameszone** — a full stack eCommerce platform with real-time cart, session login & full admin CRUD.
+- 🗄️ MySQL schema supporting **500+ product entries** · Admin panel reduced manual work by **40%**.
+- 📱 **100% responsive** cross-browser UI with gaming-inspired CSS3 animations.
 
 <br/>
 </details>
 
 <details>
-<summary>&nbsp;<b>🏫 NoviTech R&D Pvt. Ltd. &nbsp;·&nbsp; Full Stack MasterClass &nbsp;·&nbsp; Mar – Apr 2024</b></summary>
+<summary><b>&nbsp;🟢 &nbsp;NoviTech R&D Pvt. Ltd. &nbsp;—&nbsp; Full Stack MasterClass &nbsp;·&nbsp; Mar – Apr 2024</b></summary>
 <br/>
 
-> `HTML5` `CSS3` `JavaScript` `Bootstrap` `PHP` `MySQL`
+> `HTML5` &nbsp; `CSS3` &nbsp; `JavaScript` &nbsp; `Bootstrap` &nbsp; `PHP` &nbsp; `MySQL`
 
-- 📚 Completed an intensive **30-day full stack program** and built **5+ end-to-end projects** covering front-end through server-side and database-driven architecture.
-- 🏅 Earned industry-recognised certificate in full stack web development.
+- 📚 Intensive **30-day program** — built **5+ full stack projects** end-to-end including server-side & database architecture.
+- 🏅 Earned industry-recognised full stack development certificate.
 
 <br/>
 </details>
 
 ---
 
-### 🚀 &nbsp;Featured Projects
+<!-- FEATURED PROJECTS -->
+## &nbsp;🚀 &nbsp;Featured Projects
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| 🏢 **[Adithyaprabu Digital Studio](https://adithyaprabudigitalstudio.vercel.app)** | Next.js · React · Tailwind · Vercel | Premium freelance studio site · SEO-optimised · Serves clients across India |
-| 🎮 **[Gameszone eCommerce](https://games---zone.my-style.in)** | PHP · JS · MySQL · Bootstrap 5 | 50+ dynamic listings · 500+ DB records · Real-time cart · Full admin dashboard |
-| 🎵 **[SriMusic Streaming App](https://sri-music.is-great.net)** | PHP · JS · MySQL · HTML5/CSS3 | 100+ Tamil cinema songs · Custom audio player · Live search & play-count tracking |
+| &nbsp; | Project | Stack | Live |
+|:---:|---------|-------|:----:|
+| 🏢 | **[Adithyaprabu Digital Studio](https://adithyaprabudigitalstudio.vercel.app)** — Premium freelance studio · SEO-optimised · High-converting layout targeting India | `Next.js` `React` `Tailwind` `Vercel` | ✅ Live |
+| 🎮 | **[Gameszone eCommerce](https://games---zone.my-style.in)** — 50+ dynamic listings · 500+ DB records · Real-time cart · Full admin dashboard | `PHP` `JS` `MySQL` `Bootstrap 5` | ✅ Live |
+| 🎵 | **[SriMusic Streaming](https://sri-music.is-great.net)** — 100+ Tamil cinema songs · Custom audio player · Live search · Play count tracking | `PHP` `JS` `MySQL` `HTML5/CSS3` | ✅ Live |
 
 </div>
 
 ---
 
-### 🏅 &nbsp;Certifications & Achievements
+<!-- CERTIFICATIONS -->
+## &nbsp;🏅 &nbsp;Certifications & Achievements
 
 <div align="center">
 
-| | Achievement | Issued By |
-|--|-------------|-----------|
-| 🎓 | Web Development Internship Certificate | Hapitrend Media · May 2025 |
-| 📜 | Full Stack Development MasterClass | NoviTech R&D Pvt. Ltd. · Mar–Apr 2024 |
-| 🏛️ | National Conference Certificate | Bharathidasan University · 2025 |
-| 💛 | JavaScript Programming — Value Added Course | J.J. College of Arts & Science · 2024–25 |
-| 🐍 | Python Libraries — Value Added Course | J.J. College of Arts & Science · 2024–25 |
-| 📊 | Power Query in 40 Minutes | Online Certification · 2024–25 |
+|  | Achievement | Issued By | Year |
+|:--:|-------------|-----------|:----:|
+| 🎓 | Web Development Internship | Hapitrend Media | 2025 |
+| 📜 | Full Stack Development MasterClass | NoviTech R&D Pvt. Ltd. | 2024 |
+| 🏛️ | National Conference Certificate | Bharathidasan University | 2025 |
+| 💛 | JavaScript Programming — Value Added | J.J. College of Arts & Science | 2024–25 |
+| 🐍 | Python Libraries — Value Added | J.J. College of Arts & Science | 2024–25 |
+| 📊 | Power Query in 40 Minutes | Online | 2024–25 |
 
 </div>
 
 ---
 
-### 🎓 &nbsp;Education
+<!-- EDUCATION -->
+## &nbsp;🎓 &nbsp;Education
 
 <div align="center">
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| **B.Sc. Computer Science** | J.J. College of Arts & Science, Bharathidasan University | 2023 – 2026 |
+| Degree | Institution | Duration |
+|--------|-------------|:--------:|
+| **B.Sc. Computer Science** | J.J. College of Arts & Science · Bharathidasan University | 2023 – 2026 |
 
-*Core: OS · RDBMS · Software Engineering · Computer Networks · IoT · Microprocessor*
+*Subjects: OS · RDBMS · Software Engineering · Computer Networks · IoT · Microprocessor*
 
 </div>
 
 ---
 
-### 📚 &nbsp;Currently Learning
+<!-- CURRENTLY LEARNING -->
+## &nbsp;📚 &nbsp;Currently Learning
 
 ```
-🧱  React.js     →  Advanced Patterns · Custom Hooks · Context API
-⚡  Next.js      →  App Router · Server Components · SSR & ISR
-🎨  UI/UX        →  Design Systems · Figma Advanced · Accessibility
-☁️  Deployment   →  Vercel Edge Functions · CI/CD · Web Performance
+🧱  React.js     →   Advanced Patterns  ·  Custom Hooks  ·  Context API
+⚡  Next.js      →   App Router  ·  Server Components  ·  SSR & ISR
+🎨  UI/UX        →   Design Systems  ·  Figma Advanced  ·  Accessibility
+☁️  Deployment   →   Vercel Edge  ·  CI/CD  ·  Web Performance
 ```
 
 ---
 
-### 🔗 &nbsp;Connect With Me
+<!-- CONNECT -->
+## &nbsp;🔗 &nbsp;Connect With Me
 
 <div align="center">
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=7eb3ff)](https://aadhi9345.github.io/adithyaprabu)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-aadhi9345.github.io-8ba4ff?style=for-the-badge&labelColor=0d1117)](https://aadhi9345.github.io/adithyaprabu)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=a78bfa)](https://github.com/Aadhi9345)
+[![GitHub](https://img.shields.io/badge/GitHub-Aadhi9345-a78bfa?style=for-the-badge&logo=github&labelColor=0d1117)](https://github.com/Aadhi9345)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=38bdae)](https://linkedin.com/in/adithyaprabu-g-95201b2a3)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:aadhiaadhi217@gmail.com)
-&nbsp;
-[![Digital Studio](https://img.shields.io/badge/Digital_Studio-0d1117?style=for-the-badge&logo=vercel&logoColor=7eb3ff)](https://adithyaprabudigitalstudio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-38bdae?style=for-the-badge&logo=linkedin&labelColor=0d1117)](https://linkedin.com/in/adithyaprabu-g-95201b2a3)
 
 <br/>
 
-*"Build clean. Ship fast. Deliver premium."* ✨
+[![Email](https://img.shields.io/badge/Gmail-aadhiaadhi217%40gmail.com-EA4335?style=for-the-badge&logo=gmail&labelColor=0d1117)](mailto:aadhiaadhi217@gmail.com)
+&nbsp;
+[![Digital Studio](https://img.shields.io/badge/🏢_Digital_Studio-Visit_Now-8ba4ff?style=for-the-badge&labelColor=0d1117)](https://adithyaprabudigitalstudio.vercel.app)
+
+<br/><br/>
+
+*✨ &nbsp;"Build clean. Ship fast. Deliver premium." &nbsp;✨*
+
+<br/>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=110&section=footer&animation=fadeIn" width="100%"/>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
