@@ -1,96 +1,50 @@
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     HEADER BANNER                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=G.+Adithyaprabu&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full+Stack+Developer+%7C+Web+Designer+%7C+Founder&descSize=17&descAlignY=58&descColor=c0caff&descAlign=50&fontAlign=50"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=G.+Adithyaprabu&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full+Stack+Developer+%7C+Web+Designer+%7C+Founder&descSize=16&descAlignY=58&descColor=c0caff"/>
+<br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   TYPING ANIMATION                     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
+<!-- TYPING -->
 <div align="center">
-<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8BA4FF&center=true&vCenter=true&width=680&lines=👋+Hello+World!+I'm+Adithyaprabu;💻+Full+Stack+Developer+from+Tamil+Nadu+🇮🇳;🏢+Founder+%40+Adithyaprabu+Digital+Studio;⚡+PHP+%7C+JavaScript+%7C+React+%7C+Next.js)](https://git.io/typing-svg)
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Aadhi9345&style=flat-square&color=8ba4ff&label=Profile+Views)](https://github.com/Aadhi9345)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Aadhi9345?label=Followers&style=flat-square&color=8ba4ff&labelColor=161b22)](https://github.com/Aadhi9345?tab=followers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=24&duration=3000&pause=1000&color=8BA4FF&center=true&vCenter=true&width=700&lines=👋+Welcome+to+my+GitHub+Profile!;💻+Building+Clean+%26+Scalable+Web+Apps;🏢+Founder+%40+Adithyaprabu+Digital+Studio;🌟+Open+to+Collaborate+%26+Create)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                      ABOUT ME                          -->
-<!-- ═══════════════════════════════════════════════════════ -->
+---
 
-## 👨‍💻 &nbsp;About Me
+<!-- ABOUT ME — clean card style, no code -->
+## 🙋‍♂️ &nbsp;About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<br/>
 
-```php
-<?php
+<div align="center">
 
-class Adithyaprabu {
-
-  public $name     = "G. Adithyaprabu";
-  public $location = "Tamil Nadu, India 🇮🇳";
-  public $degree   = "B.Sc. Computer Science";
-  public $college  = "J.J. College (2023–2026)";
-
-  public $roles = [
-    "Full Stack Developer",
-    "Web Designer",
-    "Founder @ Digital Studio",
-  ];
-
-  public $stack = [
-    "HTML5", "CSS3", "JavaScript",
-    "PHP", "Bootstrap 5",
-    "React.js", "Next.js",
-    "MySQL", "PostgreSQL",
-  ];
-
-  public $learning = [
-    "React Advanced Patterns",
-    "Next.js App Router",
-    "REST API Design",
-  ];
-
-  public function funFact() {
-    return "Founded a studio in 3rd year! 🚀";
-  }
-
-}
-```
-
-</td>
-<td width="45%" valign="middle" align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="coding"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="coding gif"/>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-8ba4ff?style=for-the-badge&labelColor=0d1117)](https://aadhi9345.github.io/adithyaprabu)
+| | |
+|:---:|:---|
+| 🧑‍💻 | **G. Adithyaprabu** |
+| 📍 | Tamil Nadu, India |
+| 🎓 | B.Sc. Computer Science — J.J. College, Bharathidasan University *(2023 – 2026)* |
+| 🏢 | Founder — **[Adithyaprabu Digital Studio](https://adithyaprabudigitalstudio.vercel.app)** |
+| 💼 | Full Stack Developer · Web Designer |
+| 📬 | aadhiaadhi217@gmail.com |
+| 🌐 | **[Portfolio](https://aadhi9345.github.io/adithyaprabu)** &nbsp;·&nbsp; **[Digital Studio](https://adithyaprabudigitalstudio.vercel.app)** |
 
-[![Digital Studio](https://img.shields.io/badge/🏢_Digital_Studio-Live-a78bfa?style=for-the-badge&labelColor=0d1117)](https://adithyaprabudigitalstudio.vercel.app)
+</div>
 
-</td>
-</tr>
-</table>
+<br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     TECH STACK                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
+<!-- TECH STACK -->
 ## 🛠️ &nbsp;Tech Stack
+
+<br/>
 
 <div align="center">
 
@@ -98,9 +52,13 @@ class Adithyaprabu {
 
 [![Skills](https://skillicons.dev/icons?i=html,css,js,php,python&theme=dark&perline=5)](https://skillicons.dev)
 
+<br/>
+
 **Frameworks & Libraries**
 
 [![Skills](https://skillicons.dev/icons?i=bootstrap,react,nextjs,tailwind&theme=dark&perline=4)](https://skillicons.dev)
+
+<br/>
 
 **Databases · Design · Tools**
 
@@ -108,21 +66,21 @@ class Adithyaprabu {
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                        -->
-<!--   FIX: use table layout + correct img tags + cache     -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
+<!-- GITHUB STATS -->
 ## 📊 &nbsp;GitHub Stats
+
+<br/>
 
 <div align="center">
 
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=Aadhi9345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8ba4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=3600" alt="GitHub Stats" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aadhi9345&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8ba4ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=12&cache_seconds=3600" alt="GitHub Stats" width="410"/>
 </td>
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhi9345&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8ba4ff&text_color=c9d1d9&langs_count=7&border_radius=12&cache_seconds=3600" alt="Top Languages" width="340"/>
@@ -132,17 +90,18 @@ class Adithyaprabu {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Aadhi9345&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=8BA4FF&fire=a78bfa&currStreakLabel=8BA4FF&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12&mode=weekly" alt="GitHub Streak" width="500"/>
+<img src="https://streak-stats.demolab.com?user=Aadhi9345&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=8BA4FF&fire=a78bfa&currStreakLabel=8BA4FF&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=12" alt="GitHub Streak" width="480"/>
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION GRAPH                    -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
+<!-- ACTIVITY GRAPH -->
 ## 📈 &nbsp;Contribution Graph
+
+<br/>
 
 <div align="center">
 
@@ -150,13 +109,14 @@ class Adithyaprabu {
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                     TROPHIES                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- TROPHIES -->
+## 🏆 &nbsp;Trophies
 
-## 🏆 &nbsp;GitHub Trophies
+<br/>
 
 <div align="center">
 
@@ -164,12 +124,11 @@ class Adithyaprabu {
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                  WORK EXPERIENCE                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
+<!-- WORK EXPERIENCE -->
 ## 💼 &nbsp;Work Experience
 
 <details>
@@ -179,7 +138,7 @@ class Adithyaprabu {
 > `Next.js` &nbsp;`React.js` &nbsp;`Tailwind CSS` &nbsp;`PHP` &nbsp;`JavaScript` &nbsp;`Figma` &nbsp;`Vercel`
 
 - 🚀 Founded a freelance digital studio delivering **custom websites, design portfolios, and creative video editing** for businesses across India.
-- 🎨 Full-cycle delivery — **Figma wireframe → Vercel production** — with modern UI/UX focus.
+- 🎨 End-to-end delivery — **Figma wireframe → Vercel production** — modern UI/UX focused.
 - 🌐 Live at **[adithyaprabudigitalstudio.vercel.app](https://adithyaprabudigitalstudio.vercel.app)**
 
 <br/>
@@ -192,8 +151,8 @@ class Adithyaprabu {
 > `HTML5` &nbsp;`CSS3` &nbsp;`Bootstrap 5` &nbsp;`JavaScript` &nbsp;`PHP` &nbsp;`MySQL`
 
 - 🛒 Built **Gameszone** — full stack eCommerce with real-time cart, session login & full admin CRUD.
-- 🗄️ MySQL schema supporting **500+ product entries** · Admin panel reduced manual work by **40%**.
-- 📱 **100% responsive** cross-browser gaming UI with custom CSS3 animations.
+- 🗄️ MySQL schema handling **500+ product entries** · Admin panel cut manual work by **40%**.
+- 📱 **100% responsive** gaming UI with custom CSS3 animations.
 
 <br/>
 </details>
@@ -210,31 +169,33 @@ class Adithyaprabu {
 <br/>
 </details>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 FEATURED PROJECTS                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
+<!-- PROJECTS -->
 ## 🚀 &nbsp;Featured Projects
+
+<br/>
 
 <div align="center">
 
-|  | Project | Stack | Status |
+| | Project | Stack | Status |
 |:--:|---------|-------|:------:|
 | 🏢 | **[Adithyaprabu Digital Studio](https://adithyaprabudigitalstudio.vercel.app)**<br/>Premium freelance studio · SEO-optimised · High-converting layout | `Next.js` `React` `Tailwind` `Vercel` | ✅ Live |
 | 🎮 | **[Gameszone eCommerce](https://games---zone.my-style.in)**<br/>50+ listings · 500+ DB records · Real-time cart · Full admin panel | `PHP` `JS` `MySQL` `Bootstrap 5` | ✅ Live |
-| 🎵 | **[SriMusic Streaming](https://sri-music.is-great.net)**<br/>100+ songs · Custom audio player · Live search · Play-count tracking | `PHP` `JS` `MySQL` `HTML5/CSS3` | ✅ Live |
+| 🎵 | **[SriMusic Streaming](https://sri-music.is-great.net)**<br/>100+ Tamil songs · Custom audio player · Live search · Play-count | `PHP` `JS` `MySQL` `HTML5/CSS3` | ✅ Live |
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               CERTIFICATIONS                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
+<!-- CERTIFICATIONS -->
 ## 🏅 &nbsp;Certifications
+
+<br/>
 
 <div align="center">
 
@@ -249,13 +210,14 @@ class Adithyaprabu {
 
 </div>
 
+<br/>
+
 ---
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    EDUCATION                           -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
+<!-- EDUCATION -->
 ## 🎓 &nbsp;Education
+
+<br/>
 
 <div align="center">
 
@@ -263,47 +225,52 @@ class Adithyaprabu {
 |--------|-------------|:--------:|
 | **B.Sc. Computer Science** | J.J. College of Arts & Science · Bharathidasan University | 2023 – 2026 |
 
-*Core Subjects: OS · RDBMS · Software Engineering · Computer Networks · IoT · Microprocessor*
+*Core: OS · RDBMS · Software Engineering · Computer Networks · IoT · Microprocessor*
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--               CURRENTLY LEARNING                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 📚 &nbsp;Currently Learning
-
-```
-🧱  React.js     →   Advanced Patterns  ·  Custom Hooks  ·  Context API
-⚡  Next.js      →   App Router  ·  Server Components  ·  SSR & ISR
-🎨  UI / UX      →   Design Systems  ·  Figma Advanced  ·  Accessibility
-☁️  Deployment   →   Vercel Edge  ·  CI/CD  ·  Web Performance
-```
-
----
-
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                   CONNECT WITH ME                      -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
-## 🔗 &nbsp;Connect With Me
-
-<div align="center">
 <br/>
 
+---
+
+<!-- CURRENTLY LEARNING -->
+## 📚 &nbsp;Currently Learning
+
+<br/>
+
+<div align="center">
+
+| Topic | Focus Areas |
+|-------|-------------|
+| ⚛️ &nbsp;**React.js** | Advanced Patterns · Custom Hooks · Context API |
+| ⚡ &nbsp;**Next.js** | App Router · Server Components · SSR & ISR |
+| 🎨 &nbsp;**UI / UX** | Design Systems · Figma Advanced · Accessibility |
+| ☁️ &nbsp;**Deployment** | Vercel Edge · CI/CD · Web Performance |
+
+</div>
+
+<br/>
+
+---
+
+<!-- CONNECT -->
+## 🔗 &nbsp;Connect With Me
+
+<br/>
+
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-aadhi9345.github.io-8ba4ff?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0d1117)](https://aadhi9345.github.io/adithyaprabu)
-&nbsp;
+&nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Aadhi9345-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Aadhi9345)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/adithyaprabu-g-95201b2a3)
-&nbsp;
+&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-aadhiaadhi217-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:aadhiaadhi217@gmail.com)
-&nbsp;
-[![Digital Studio](https://img.shields.io/badge/Digital_Studio-Live-38bdae?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://adithyaprabudigitalstudio.vercel.app)
+&nbsp;&nbsp;
+[![Studio](https://img.shields.io/badge/Digital_Studio-Visit-38bdae?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://adithyaprabudigitalstudio.vercel.app)
 
 <br/><br/>
 
@@ -313,8 +280,5 @@ class Adithyaprabu {
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                    FOOTER WAVE                         -->
-<!-- ═══════════════════════════════════════════════════════ -->
-
+<!-- FOOTER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&animation=fadeIn"/>
