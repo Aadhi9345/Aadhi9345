@@ -212,19 +212,6 @@ flowchart LR
 
 </div>
 
----
-
-<h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Rocket/3D/rocket_3d.png" width="38" align="center"/> &nbsp;2026–27 Goals</h2>
-
-- [x] Launch Adithyaprabu Digital Studio
-- [x] Complete B.Sc. Computer Science
-- [ ] Excel in M.Sc. AI & Data Science and build ML projects alongside coursework
-- [ ] Ship an AI-powered web product (LLM + RAG)
-- [ ] Containerise projects with Docker & automate with GitHub Actions
-- [ ] Earn a cloud certification (AWS Cloud Practitioner / Azure AZ-900)
-- [ ] Deploy an ML model end-to-end with an MLOps pipeline
-
----
 
 <h2><img src="https://raw.githubusercontent.com/microsoft/fluentui-emoji/main/assets/Handshake/3D/handshake_3d.png" width="38" align="center"/> &nbsp;Let's Connect</h2>
 
