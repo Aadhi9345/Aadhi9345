@@ -1,13 +1,12 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Adithyaprabu%20G&fontSize=58&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Full%20Stack%20%C2%B7%20AI%20%26%20Data%20Science%20%C2%B7%20MLOps%20%C2%B7%20Cloud&descSize=18&descAlignY=62&descColor=c0caff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=Adithyaprabu+G&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full+Stack+%7C+AI+%26+Data+Science+%7C+MLOps+%7C+Cloud&descSize=17&descAlignY=58&descColor=c0caff&descAlign=50&fontAlign=50"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=8BA4FF&center=true&vCenter=true&width=820&lines=%F0%9F%91%8B+Hi%2C+I%27m+Adithyaprabu;%F0%9F%A7%A9+Full+Stack+%2B+AI+%2B+Cloud+%3D+Products+that+scale;%F0%9F%A4%96+Building+AI-powered+web+apps;%E2%9A%99%EF%B8%8F+Learning+MLOps%3A+Docker+%C2%B7+CI%2FCD+%C2%B7+Kubernetes;%E2%98%81%EF%B8%8F+Deploying+on+AWS+%C2%B7+Azure+%C2%B7+GCP;%F0%9F%8F%A2+Founder+%40+Adithyaprabu+Digital+Studio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=22&duration=3000&pause=1000&color=8BA4FF&center=true&vCenter=true&width=760&lines=👋+Hi,+I'm+Adithyaprabu;💻+Full+Stack+Developer;🤖+AI+%26+Data+Science+Student;🔁+Learning+MLOps+%26+CI/CD;☁️+Deploying+on+AWS+·+Azure+·+GCP;🏢+Founder+%40+Adithyaprabu+Digital+Studio)](https://git.io/typing-svg)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Aadhi9345&label=Profile+Views&color=8ba4ff&style=for-the-badge&labelColor=0d1117)
 ![Followers](https://img.shields.io/github/followers/Aadhi9345?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github)
 ![Status](https://img.shields.io/badge/Open_to-Work_%26_Collab-38bdae?style=for-the-badge&labelColor=0d1117)
 
@@ -23,14 +22,14 @@ $ whoami
 
 $ cat profile.json
 {
-  "role":        ["Full Stack Developer", "AI & Data Science Student", "MLOps & Cloud Enthusiast"],
-  "founder_of":  "Adithyaprabu Digital Studio",
-  "location":    "Tamil Nadu, India 🇮🇳",
-  "education":   ["M.Sc. Artificial Intelligence & Data Science (Pursuing)", "B.Sc. Computer Science — J.J. College, Bharathidasan University (2023–2026)"],
-  "building":    "AI-powered web apps with production-grade deployment",
-  "learning":    ["Machine Learning", "Deep Learning", "Data Analysis", "LLM Apps & RAG", "Docker", "CI/CD", "AWS / Azure / GCP"],
-  "philosophy":  "Build clean. Ship fast. Deploy smart.",
-  "reach_me":    "aadhiaadhi217@gmail.com"
+  "role":      "Full Stack Dev | AI & DS Student",
+  "focus":     ["AI/ML", "MLOps", "Cloud"],
+  "studying":  "M.Sc. AI & Data Science",
+  "graduated": "B.Sc. CS (2023-2026)",
+  "founder":   "Adithyaprabu Digital Studio",
+  "location":  "Tamil Nadu, India",
+  "building":  "AI-powered web apps",
+  "motto":     "Build clean. Ship fast. Deploy smart."
 }
 ```
 
@@ -60,15 +59,7 @@ $ cat profile.json
 
 ```mermaid
 flowchart LR
-    A([💡 Idea]) --> B[🎨 Figma Design]
-    B --> C[⚛️ Next.js / React Frontend]
-    C --> D[🐍 FastAPI / PHP Backend]
-    D --> E[🤖 ML Model / LLM API]
-    E --> F[🐳 Docker]
-    F --> G[⚙️ CI/CD · GitHub Actions]
-    G --> H[☁️ Cloud · Vercel / AWS]
-    H --> I([📈 Monitor & Improve])
-    I -.feedback.-> A
+    A[🎨 Design] --> B[⚛️ Frontend] --> C[🐍 Backend + ML] --> D[🐳 Docker] --> E[⚙️ CI/CD] --> F[☁️ Cloud] --> G[📈 Monitor]
 ```
 
 ---
@@ -204,11 +195,8 @@ flowchart LR
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadhi9345&theme=tokyo-night&bg_color=0d1117&color=8ba4ff&line=a78bfa&point=38bdae&area=true&hide_border=true&radius=8" alt="Activity Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/8ba4ff/Aadhi9345" alt="Contribution Chart" width="95%"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aadhi9345&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=6" alt="Trophies"/>
 
 </div>
 
